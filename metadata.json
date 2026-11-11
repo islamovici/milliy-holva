@@ -1,0 +1,6 @@
+{
+  "name": "Milliy Holva - Telegram Bot & Mini App",
+  "description": "Milliy Holva premium mahsulotlarini kofe xonalar va do'konlarga yetkazib berish, lokatsiyalar, ombor zaxirasi va buyurtmalar hisobi tizimi.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
